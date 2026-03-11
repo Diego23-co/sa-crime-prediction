@@ -42,7 +42,7 @@ sa-crime-prediction/
 
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/sa-crime-prediction.git
+git clone https://github.com/Diego23-co/sa-crime-prediction.git
 ```
 
 2. Install dependencies
