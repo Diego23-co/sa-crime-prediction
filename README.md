@@ -52,7 +52,7 @@ pip install pandas numpy scikit-learn matplotlib
 
 3. Open the notebook
 ```bash
-jupyter notebook sa-crime-prediction.ipynb
+jupyter notebook sa_crime_prediction.ipynb
 ```
 
 ---
