@@ -1,11 +1,5 @@
-requirements = '''flask
+flask
 scikit-learn
 pandas
 numpy
 gunicorn
-'''
-
-with open('requirements.txt', 'w') as f:
-    f.write(requirements)
-
-print("requirements.txt created successfully")
