@@ -31,7 +31,7 @@ crime category and financial year.
 ```
 sa-crime-prediction/
 │
-├── sa-crime-prediction.ipynb       # Main notebook
+├── sa_crime_prediction.ipynb       # Main notebook
 ├── crimes_incidents_by_category.csv  # Dataset
 └── README.md                       # Project documentation
 ```
